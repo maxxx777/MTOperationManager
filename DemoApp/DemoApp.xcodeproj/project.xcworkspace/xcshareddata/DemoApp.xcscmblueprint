@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "26BC2745BA4BE8CEA2C7884102FE1BFC0FA2A70C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "26BC2745BA4BE8CEA2C7884102FE1BFC0FA2A70C" : 0,
+    "7B3173A9A8711E26B2B7E8EB32A82862FE9BF726" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F295F28F-2D8D-44BC-87A4-BB08A100A540",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "26BC2745BA4BE8CEA2C7884102FE1BFC0FA2A70C" : "MTOperationManager\/",
+    "7B3173A9A8711E26B2B7E8EB32A82862FE9BF726" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "DemoApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "DemoApp\/DemoApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/maxxx777\/MTOperationManager",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "26BC2745BA4BE8CEA2C7884102FE1BFC0FA2A70C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/alexthec0d3r\/scheduleapp-iphone-cloned.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7B3173A9A8711E26B2B7E8EB32A82862FE9BF726"
+    }
+  ]
+}
